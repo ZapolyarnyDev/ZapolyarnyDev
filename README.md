@@ -1,6 +1,6 @@
 <div align="center"><h1>Hello, I'm Pavel<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="40"></h1></div>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="250"><br />
+  <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="300"><br />
   <a href="https://t.me/zapolyarny0">
     <img src="https://img.shields.io/badge/Telegram-%231DA1F2?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="170"/>
   </a>
