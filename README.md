@@ -34,10 +34,9 @@
 4. 🧠 [Solutions for LeetCode problems](https://github.com/ZapolyarnyDev/LeetcodeProblems) - improving my algorithmic problem-solving skills
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZapolyarnyDev&layout=compact&theme=tokyonight)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ZapolyarnyDev&theme=tokyonight&card_width=300&hide_border=true)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZapolyarnyDev&show_icons=true&theme=tokyonight&card_width=400)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZapolyarnyDev&layout=compact&theme=tokyonight)
 
 ![Profile views](https://komarev.com/ghpvc/?username=ZapolyarnyDev&style=for-the-badge)
 ## 📧 Contacts
