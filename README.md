@@ -47,6 +47,13 @@ I enjoy exploring the backend ecosystem with Java/Kotlin and continuously improv
 ![Vitest](https://img.shields.io/badge/Vitest-%234E9CB8.svg?style=for-the-badge&logo=vitest&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 
+## learning (for tech-stack)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
+
+
 ## my works
 
 1. [Calmify](https://github.com/ZapolyarnyDev/Calmify) - A video platform based on microservice architecture<br />
