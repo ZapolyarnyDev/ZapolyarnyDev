@@ -7,7 +7,7 @@
 </div>
 
 ## summary
-👻 Pavel, 17 y.o.<br />
+👻 Pavel, 18 y.o.<br />
 💻 Backend Java/Kotlin developer<br />
 📈 Exploring JavaScript/TypeScript, studying Vue<br />
 📺 Current pet-project - [Calmify](https://github.com/ZapolyarnyDev/Calmify) video-platform<br />
