@@ -10,7 +10,7 @@
 👻 Pavel, 18 y.o.<br />
 💻 Backend Java/Kotlin developer<br />
 📈 Exploring JavaScript/TypeScript, studying Vue<br />
-📺 Current pet-project - [Calmify](https://github.com/ZapolyarnyDev/Calmify) video-platform<br />
+📺 Current pet-project - [PTKnow](https://github.com/ZapolyarnyDev/PTKnow) study-platform<br />
 
 ## about me
 I'm Pavel,  backend developer passionate about building clean, scalable, and efficient systems.  
