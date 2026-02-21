@@ -1,4 +1,4 @@
-<div align="center"><h1>Hello, I'm Pavel<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="40"></h1></div>
+<div align="center"><h1>Hello, I'm Zapolyarny<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="40"></h1></div>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="300"><br />
   <a href="https://t.me/zapolyarny0">
@@ -13,8 +13,16 @@
 📺 Current pet-project - [PTKnow](https://github.com/ZapolyarnyDev/PTKnow) study-platform<br />
 
 ## about me
-I'm Pavel,  backend developer passionate about building clean, scalable, and efficient systems.  
+I'm Zapolyarny, backend developer passionate about building clean, scalable, and efficient systems.  
 I enjoy exploring the backend ecosystem with Java/Kotlin and continuously improving my skills in software architecture, microservices, and testing.
+
+## my works
+
+1. [PTKnow-Server](https://github.com/ZapolyarnyDev/PTKnow-Server) - Backend service built with Java and Spring Boot for a collaborative college project — an educational platform<br />
+2. [Wikifly](https://github.com/ZapolyarnyDev/wikifly) - Simple Js/Ts wrapper for search and fetch wikipedia articles<br />
+3. [MinjustBannedFinder](https://github.com/ZapolyarnyDev/news-bot) - Unofficial TypeScript SDK for accessing the Russian Ministry of Justice prohibited materials registry<br />
+4. [gsKit3d](https://github.com/ZapolyarnyDev/gsKit3d) - Graphics library for PlayStation 2 built on top of gsKit for 3D rendering<br />
+5. [GlyphAirlines](https://github.com/ZapolyarnyDev/GlyphAirlines) - Airline ticket booking system built as a third-year college project (TypeScript, React, Express)<br />
 
 ## tech stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -46,20 +54,6 @@ I enjoy exploring the backend ecosystem with Java/Kotlin and continuously improv
 ![Vite](https://img.shields.io/badge/Vite-%236646FF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-%234E9CB8.svg?style=for-the-badge&logo=vitest&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-
-## learning (for tech-stack)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
-
-
-## my works
-
-1. [Calmify](https://github.com/ZapolyarnyDev/Calmify) - A video platform based on microservice architecture<br />
-2. [Wikifly](https://github.com/ZapolyarnyDev/wikifly) - Simple Js/Ts wrapper for search and fetch wikipedia articles<br />
-3. [News-bot](https://github.com/ZapolyarnyDev/news-bot) - A Telegram bot created using Spring
-4. [Solutions for LeetCode problems](https://github.com/ZapolyarnyDev/LeetcodeProblems) - improving my algorithmic problem-solving skills
 
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZapolyarnyDev&show_icons=true&theme=tokyonight&card_width=400)
