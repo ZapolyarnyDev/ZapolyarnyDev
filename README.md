@@ -56,10 +56,9 @@ I enjoy exploring the backend ecosystem with Java/Kotlin and continuously improv
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZapolyarnyDev&show_icons=true&theme=tokyonight&card_width=400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZapolyarnyDev&layout=compact&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZapolyarnyDev&theme=tokyonight)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZapolyarnyDev&theme=tokyonight)
 
-![Profile views](https://komarev.com/ghpvc/?username=ZapolyarnyDev&style=for-the-badge)
 ## contacts
 📱 Contact me via telegram: [Telegram](https://t.me/zapolyarny0)
