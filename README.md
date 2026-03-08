@@ -18,7 +18,7 @@ I enjoy exploring the backend ecosystem with Java/Kotlin and continuously improv
 
 ## my works
 
-1. [PTKnow-Server](https://github.com/ZapolyarnyDev/PTKnow-Server) - Backend service built with Java and Spring Boot for a collaborative college project — an educational platform<br />
+1. [PTKnowBackend](https://github.com/ZapolyarnyDev/PTKnow-Server) - Backend service built with Java and Spring Boot for a collaborative college project — an educational platform<br />
 2. [Wikifly](https://github.com/ZapolyarnyDev/wikifly) - Simple Js/Ts wrapper for search and fetch wikipedia articles<br />
 3. [MinjustBannedFinder](https://github.com/ZapolyarnyDev/news-bot) - Unofficial TypeScript SDK for accessing the Russian Ministry of Justice prohibited materials registry<br />
 4. [gsKit3d](https://github.com/ZapolyarnyDev/gsKit3d) - Graphics library for PlayStation 2 built on top of gsKit for 3D rendering<br />
