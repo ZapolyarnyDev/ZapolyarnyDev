@@ -23,6 +23,7 @@ I enjoy exploring the backend ecosystem with Java/Kotlin and continuously improv
 3. [MinjustBannedFinder](https://github.com/ZapolyarnyDev/news-bot) - Unofficial TypeScript SDK for accessing the Russian Ministry of Justice prohibited materials registry<br />
 4. [gsKit3d](https://github.com/ZapolyarnyDev/gsKit3d) - Graphics library for PlayStation 2 built on top of gsKit for 3D rendering<br />
 5. [GlyphAirlines](https://github.com/ZapolyarnyDev/GlyphAirlines) - Airline ticket booking system built as a third-year college project (TypeScript, React, Express)<br />
+6. [PtkTimetable](https://github.com/ZapolyarnyDev/PtkTimetable) - College timetable app<br />
 
 ## tech stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
